@@ -16,6 +16,7 @@ The data type collected through the surveys was Qualitative and both Nominal & O
   5) Are you in school or not? Nominal
   6) Dog size/under 20 pounds or not? Ordinal
   7) Shedding breed? Nominal
+  
 The data description for each attribute is whether dog owners answered yes or no to the survey questions, in either Hancock Dog Park or Norwood Estate Dog park. Further clarification on the meaning of each question is described below.
   1) Is this your only pet?
      Asked to find out if respondent has other pets that may influence the type of dog they own.
