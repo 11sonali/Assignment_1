@@ -1,13 +1,13 @@
 # Assignment_1
-Data Collection and Curation
+## Data Collection and Curation
 
-Goal of project:
+#### Goal of project:
 The goal of this project was to construct, analyze, and publish a dataset. Since there has been a huge increase in hybrid breeding of dogs for non-sheding coats, I was curious about dog ownership and the types of dogs owners had in two area dog parks: Hancock Dog Park and Norwood Estate Dog Park. Through surveying people entering the dog park, questions were asked and responses recorded.
 
-License:
+#### License:
 For my data a license was not needed because I collected my own data without using an API.
 
-Data type and description for each attribute:
+#### Data type and description for each attribute:
 The data type collected through the surveys was Qualitative and both Nominal & Ordinal for certain attributes. Below is a list of the survey questions asked of each dog owner. At the end of each question the possible yes/no response is identified as either nominal or ordinal data.
   1) Is this your ownly pet? Nominal
   2) Is this your first pet? Nominal
