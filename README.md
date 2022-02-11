@@ -32,3 +32,10 @@ The data description for each attribute is whether dog owners answered yes or no
      Asked because the size of dog impacts the amount of hair shed.
   7) Shedding breed?
      Asked to see if hybrid dog breeds with non-shedding coats are chosen more often.
+ 
+#### Data provenance, quirks in the data, and potential biases:
+The goal of this project was to construct, analyze, and publish a dataset. Since there has been a huge increase in hybrid breeding of dogs for non-shedding coats, data was collected about dog owners and their dogs. Surveys were conducted at two Austin area dog parks: Hancock Dog Park and Norwood Estate Dog Park. Responses to seven yes or no questions were recorded using the number 1 for yes and the number 2 for no. This raw data was recorded in an excel spreadsheet where the seven dog related attributes were identified, as well as indicating which of the two locations the data came from in a column called "Dog Park". The first step in processing this data was to separate the number 1 and number 2 attribute identifiers, then separate the data by dog park location. Next, the percentages of each attribute for the specified location were calculated in order to prep the CSV file. Using the resulting grouped bar graph a qualitative analysis approach was taken. While there is likely not any quirks in the data, there may be potential biases due to the small sample size.
+
+#### Analysis
+For Hancock Dog Park the majority of pet owners lived in apartments and were their pets only owner while also being a student. It was concluded that the dog owners from the data set representing Hancock Dog Park typically had a smaller dog breed that did not shed. For Norwood Estate Dog Park more than half of the dog owners lived in a home rather than an apartment. Majority of these dog owners were not students and co-owned their pet which was typically a larger breed that shed. I think the results make sense because maybe pet owners who are students living in an apatnment prefer smaller dogs that do not shed. Apartments are smaller than a house and students probably have less time to clean up dog hair.
+ 
